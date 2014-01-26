@@ -1,0 +1,3 @@
+.icemegamenu .meganizr > li > div,.icemegamenu .meganizr > li > ul,.icemegamenu .meganizr > li > ul li > ul{ overflow:visible;visibility:visible;display:none;}
+.icemegamenu .meganizr > li.mzr-drop:hover > div,.icemegamenu .meganizr > li.mzr-drop:hover > ul,.icemegamenu .meganizr > li > ul li.mzr-drop:hover > ul{display:block;}
+.icemegamenu .meganizr > li.mzr-home-dark,.icemegamenu .meganizr > li.mzr-home-light{min-width:50px;}
